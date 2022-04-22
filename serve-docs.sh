@@ -1,0 +1,1 @@
+venv/scripts/python.exe -m pdoc project-name

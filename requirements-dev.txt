@@ -1,0 +1,10 @@
+pytest
+flake8
+black
+pdoc
+pydoc-markdown
+ipykernel
+tornado
+jupyter
+nbformat
+pytest-console-scripts
